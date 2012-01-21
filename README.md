@@ -1,9 +1,8 @@
------
-About
------
+Elixir
+======
 
-Elixir is a declarative layer on top of the `SQLAlchemy library
-<http://www.sqlalchemy.org/>`_. It is a fairly thin wrapper, which provides
+Elixir is a declarative layer on top of the [SQLAlchemy library]
+(http://www.sqlalchemy.org/). It is a fairly thin wrapper, which provides
 the ability to create simple Python classes that map directly to relational
 database tables (this pattern is often referred to as the Active Record design
 pattern), providing many of the benefits of traditional databases
